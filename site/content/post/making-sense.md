@@ -1,7 +1,7 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: Maleny Makerspace opening soon !
+date: 2018-05-24T01:04:10+10:00
+description: Big news my dudes
 image: /img/blog/flavor_wheel.jpg
 ---
 
